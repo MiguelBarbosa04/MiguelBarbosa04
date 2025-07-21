@@ -6,5 +6,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=miguelusername&show_icons=true&theme=tokyonight" alt="miguel stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelusername&theme=tokyonight" alt="miguel streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelBarbosa04&theme=tokyonight" alt="miguel streak" />
 </p>
