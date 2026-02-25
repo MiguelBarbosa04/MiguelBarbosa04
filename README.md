@@ -6,7 +6,7 @@ Hi, I’m 23 years old, Portuguese, and I have just completed my degree in Softw
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TEU-USERNAME-AQUI/](https://www.linkedin.com/in/miguel-barbosa-b77268209/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/miguel-barbosa-b77268209/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" 
          width="40" 
